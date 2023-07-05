@@ -1,0 +1,48 @@
+.scroll {
+  /* width: '100px';
+    height: '50%';
+    overflow-x: 'hidden';
+    overflow-y: 'scroll' */
+}
+
+.background {  
+  background-color: rgb(244, 241, 241);
+}
+.color1 {
+  background-color: rgb(251, 67, 67);
+}
+
+.color2 {
+  background-color: rgb(219, 219, 26);
+}
+.colorTabla {
+  background-color: rgb(211, 136, 7);
+}
+
+
+a:link {
+  color: rgb(1, 14, 20);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(5, 92, 5);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(233, 235, 215);
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+.bg-image{
+  background-image: url('../img/RockMusic.jpg');  
+}
+
+.overlay{
+  max-width: 22rem;
+}
